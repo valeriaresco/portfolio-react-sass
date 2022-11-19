@@ -5,9 +5,14 @@ const AboutContainer = () => {
         <section className="about-container">
             <h2>Sobre</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo laboriosam, tempore quisquam veritatis numquam vero dicta, perferendis maxime modi quam, unde beatae perspiciatis veniam saepe dolores facilis? Laborum, ratione culpa! Hello peopleee
+                Oi, tudo bem? Espero que esteja tudo bem ai do outro lado. Me chamo Valéria, mas pode me chamar de Val, se assim preferir. Tenho 23 anos, sou natural e residente da cidade modelo do Pará, a cidade de Castanhal. 
             </p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut iusto magni maiores repellat similique velit veniam optio rem, quidem praesentium ratione quam dolorum deserunt cum rerum nulla harum quaerat. Molestias?</p>
+            <p>
+            Sou apaixonada por programação desde o dia que consegui criar um site com background de unicórnios, me senti realizada e crente de que estava no lugar onde sempre quis estar. Desde o ano 2019 sou graduada em Analise e Desenvolvimento de Sistemas pela Universidade Estadual do Pará (UEPA), e preciso confessar que nessa época a parte Web e experiencia com o usuário fizeram os meus olhos brilharem, por isso estou na busca de me aperfeiçoar nessa área.
+            </p>
+            <p> 
+                Há um pouco mais de um ano trabalho diretamente com linguagem SQL e suporte ao usuário do ERP SAP, e conseguir ajudar as pessoas com os meus conhecimentos é gratificante.
+            </p>
         </section>
     );
 };
